@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thushitharan</h1>
-<h3 align="center">A guy with the passination of Cyber Security, Development and Operation Related Stuffs.</h3>
+<h3 align="center">A guy with the passionation of Cyber Security, Development and Operation Related Stuffs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thushi99&label=Profile%20views&color=0e75b6&style=flat" alt="thushi99" /> </p>
 
